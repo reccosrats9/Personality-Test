@@ -1,0 +1,12 @@
+.Title{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 3em;
+    background: rgba(245,245,245,0.9);
+    margin-top: 40px;
+    border-radius: 15px;
+    color: #004346;
+    ;
+    text-align: center;
+    width: 50vw;
+    height: 75px;
+  }
